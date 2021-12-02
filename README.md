@@ -1,5 +1,9 @@
 # My Mac Environment
 
+受到GitHub项目**[Awesome-macapps](https://github.com/kyriejoshua/awesome-macapps)**的影响
+
+---
+
 [Homebrew](https://brew.sh/)：我将它列在第一位是因为这是一个非常强大的macOS包管理器，绝大多数的应用都可以通过他安装。可以通过[这篇文章](https://sspai.com/post/42924)了解它的详情。
 
 ---
