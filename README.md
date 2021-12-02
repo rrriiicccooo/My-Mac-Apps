@@ -1,12 +1,8 @@
 # My Mac Environment
 
-期待许久，终于在11.30收到了推迟了一周的MacBook Pro。因为担心从X86架构直接数据迁移到ARM架构会出现难以诊断的小毛病，我索性决定从新开始设置我的新电脑，零零碎碎直到几天后才将新电脑配置成舒适的模样。为了记录我这几天的劳动，同时也受到GitHub项目**[Awesome-macapps](https://github.com/kyriejoshua/awesome-macapps)**的影响，我写下了此文。
-
 ---
 
 [Homebrew](https://brew.sh/)：我将它列在第一位是因为这是一个非常强大的macOS包管理器，绝大多数的应用都可以通过他安装。可以通过[这篇文章](https://sspai.com/post/42924)了解它的详情。
-
----
 
 ---
 
