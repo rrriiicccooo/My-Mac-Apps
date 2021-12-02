@@ -1,6 +1,6 @@
 # My Mac Environment
 
-受到GitHub项目**[Awesome-macapps](https://github.com/kyriejoshua/awesome-macapps)**的影响
+受到GitHub项目[Awesome-macapps](https://github.com/kyriejoshua/awesome-macapps)的影响
 
 ---
 
